@@ -21,7 +21,7 @@
             "description":"In this project user can sign in and sign up with responsive , attractive ui and ux. design made in React",
             "icon":"https://img.icons8.com/pulsar-line/48/parse-from-clipboard.png",
             "link":"https://ju7i18.csb.app/Login"
-        },
+        }
     ],
 
     "projects_apps":[
@@ -36,6 +36,6 @@
             "description":"Users can create, delete and update timetables and get live session information.",
             "icon":"https://play-lh.googleusercontent.com/m-7J1X4HzUB8Hh8-V6R1LuuH16o41nfbRdlN_OicmE8Fr3NRaPOUYHmu00ks-X7Xz7Mj=w480-h960-rw",
             "link":"https://play.google.com/store/apps/details?id=com.lucky.timetable&hl=en-IN"
-        },
+        }
     ]
 }
